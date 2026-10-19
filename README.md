@@ -1,4 +1,4 @@
-# GTAV.VisualEnhancemen
+# GTAV.VisualEnhancement
 
 A lightweight graphics preset for Grand Theft Auto V (GTA V) that enhances image sharpness, contrast, and color vibrance using SweetFX/ReShade shaders.
 
