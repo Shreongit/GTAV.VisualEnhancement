@@ -1,7 +1,3 @@
-to install this mod, place the sweetfx folder, d3d11.dll and sweet.fx files into your gtav directory/folder. this will not slow down you game just change the shrpness and color.
-
-The new sharpness and color will automatically be applied so no need to press and keys to enable the sweetfx mod, tho if you do wish to disable and enable ingame to tell the difference the F12 key is the one to press.
-
 INSTALLATION:
 1) Use Edit Mode with the latest version of OpenIV - http://openiv.com
 2) In your /update/ folder, Open "update.rpf"
